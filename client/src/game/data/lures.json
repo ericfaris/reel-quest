@@ -1,0 +1,8 @@
+[
+  { "id": "worm", "name": "Basic Worm", "tier": 0, "catchBonus": 0, "rarityBonus": 0, "color": "#cc6666", "description": "A simple earthworm. Gets the job done.", "unlocked": true },
+  { "id": "cricket", "name": "Cricket", "tier": 0, "catchBonus": 0.05, "rarityBonus": 0, "color": "#668833", "description": "Lively cricket bait. Bluegill love it.", "unlocked": true },
+  { "id": "minnow", "name": "Live Minnow", "tier": 1, "catchBonus": 0.1, "rarityBonus": 0.05, "color": "#aabbcc", "description": "Small baitfish. Attracts predators.", "unlocked": false, "cost": 200 },
+  { "id": "spinnerbait", "name": "Spinnerbait", "tier": 2, "catchBonus": 0.15, "rarityBonus": 0.1, "color": "#ccccdd", "description": "Flashy spinner. Bass can't resist.", "unlocked": false, "cost": 500 },
+  { "id": "crankbait", "name": "Crankbait", "tier": 3, "catchBonus": 0.2, "rarityBonus": 0.15, "color": "#ff6644", "description": "Deep-diving lure for big game.", "unlocked": false, "cost": 1000 },
+  { "id": "golden-lure", "name": "Golden Lure", "tier": 4, "catchBonus": 0.3, "rarityBonus": 0.25, "color": "#ffdd00", "description": "Legendary lure. Attracts the rarest fish.", "unlocked": false, "cost": 2500 }
+]

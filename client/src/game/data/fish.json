@@ -1,0 +1,12 @@
+[
+  { "id": "bluegill", "name": "Bluegill", "rarity": "common", "minWeight": 0.2, "maxWeight": 1.5, "behavior": "calm", "color": "#4488cc", "width": 14, "height": 8 },
+  { "id": "catfish", "name": "Channel Catfish", "rarity": "uncommon", "minWeight": 2, "maxWeight": 25, "behavior": "aggressive", "color": "#665544", "width": 20, "height": 10, "boss": true },
+  { "id": "trout", "name": "Rainbow Trout", "rarity": "uncommon", "minWeight": 1, "maxWeight": 8, "behavior": "skittish", "color": "#cc6688", "width": 16, "height": 8 },
+  { "id": "bass", "name": "Largemouth Bass", "rarity": "common", "minWeight": 1, "maxWeight": 12, "behavior": "aggressive", "color": "#558833", "width": 18, "height": 10 },
+  { "id": "crappie", "name": "Crappie", "rarity": "common", "minWeight": 0.3, "maxWeight": 2, "behavior": "calm", "color": "#aabbcc", "width": 12, "height": 8 },
+  { "id": "gar", "name": "Longnose Gar", "rarity": "rare", "minWeight": 5, "maxWeight": 30, "behavior": "aggressive", "color": "#889966", "width": 24, "height": 6, "boss": true },
+  { "id": "sunfish", "name": "Sunfish", "rarity": "common", "minWeight": 0.1, "maxWeight": 1, "behavior": "calm", "color": "#ffaa33", "width": 10, "height": 8 },
+  { "id": "walleye", "name": "Walleye", "rarity": "uncommon", "minWeight": 2, "maxWeight": 10, "behavior": "skittish", "color": "#ccaa55", "width": 18, "height": 8 },
+  { "id": "muskie", "name": "Muskellunge", "rarity": "legendary", "minWeight": 10, "maxWeight": 40, "behavior": "aggressive", "color": "#336655", "width": 28, "height": 10, "boss": true },
+  { "id": "carp", "name": "Common Carp", "rarity": "common", "minWeight": 3, "maxWeight": 20, "behavior": "calm", "color": "#bb8844", "width": 20, "height": 12 }
+]

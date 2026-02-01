@@ -1,0 +1,10 @@
+[
+  { "id": "q1", "title": "First Catch", "description": "Catch any fish.", "type": "catch", "target": null, "count": 1, "reward": { "xp": 50, "lure": null }, "pond": null },
+  { "id": "q2", "title": "Bluegill Bonanza", "description": "Catch 5 bluegill.", "type": "catch", "target": "bluegill", "count": 5, "reward": { "xp": 100, "lure": null }, "pond": "middleton-mills" },
+  { "id": "q3", "title": "Big Cat", "description": "Land a catfish over 10 lbs.", "type": "weight", "target": "catfish", "minWeight": 10, "count": 1, "reward": { "xp": 200, "lure": "spinnerbait" }, "pond": "middleton-mills" },
+  { "id": "q4", "title": "Variety Pack", "description": "Catch 3 different species.", "type": "species", "target": null, "count": 3, "reward": { "xp": 150, "lure": null }, "pond": null },
+  { "id": "q5", "title": "Bass Master", "description": "Catch 3 largemouth bass at Doe Run.", "type": "catch", "target": "bass", "count": 3, "reward": { "xp": 250, "lure": "crankbait" }, "pond": "doe-run" },
+  { "id": "q6", "title": "Monster Hunter", "description": "Defeat the Channel Catfish boss.", "type": "boss", "target": "catfish", "count": 1, "reward": { "xp": 500, "lure": null }, "pond": "middleton-mills" },
+  { "id": "q7", "title": "Legend of Pollywog", "description": "Catch the legendary Muskellunge.", "type": "catch", "target": "muskie", "count": 1, "reward": { "xp": 1000, "lure": null }, "pond": "pollywog" },
+  { "id": "q8", "title": "Ten Pounder", "description": "Catch any fish weighing over 10 lbs.", "type": "weight", "target": null, "minWeight": 10, "count": 1, "reward": { "xp": 300, "lure": null }, "pond": null }
+]

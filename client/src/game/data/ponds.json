@@ -1,0 +1,32 @@
+[
+  {
+    "id": "middleton-mills",
+    "name": "Middleton-Mills Pond",
+    "description": "A quiet farm pond stocked with catfish and trout.",
+    "fish": ["bluegill", "catfish", "trout", "sunfish", "crappie"],
+    "boss": "catfish",
+    "unlocked": true,
+    "bgColor": "#2a5a3a",
+    "waterColor": "#335588"
+  },
+  {
+    "id": "doe-run",
+    "name": "Doe Run Lake",
+    "description": "A scenic lake known for its monster bass.",
+    "fish": ["bass", "crappie", "walleye", "carp", "bluegill"],
+    "boss": "bass",
+    "unlocked": false,
+    "bgColor": "#3a4a2a",
+    "waterColor": "#2a4466"
+  },
+  {
+    "id": "pollywog",
+    "name": "Lake Pollywog",
+    "description": "Deep waters hiding ancient gar and the legendary muskellunge.",
+    "fish": ["gar", "muskie", "walleye", "carp", "catfish"],
+    "boss": "muskie",
+    "unlocked": false,
+    "bgColor": "#1a3a3a",
+    "waterColor": "#223355"
+  }
+]
